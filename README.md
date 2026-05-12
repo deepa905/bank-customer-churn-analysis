@@ -112,7 +112,8 @@ Churned customers hold significantly higher average balances ($91,108 vs $72,745
 
 ## Dashboard Preview
 
-> *Power BI dashboard screenshot — add screenshot here after export*
+> <img width="676" height="368" alt="image" src="https://github.com/user-attachments/assets/4bf1d0b6-d8cf-4225-a723-33b8a2b5d0c2" />
+
 
 **Dashboard features:**
 - 5 KPI cards: Total Customers, Total Churned, Churn Rate %, Avg Balance (Churned), Avg Age (Churned)
